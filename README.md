@@ -1,4 +1,4 @@
-# Calculadora_de_Consumo_Eletrico 
+# Calculadora_de_Consumo_Eletrico 🐍
 A Calculadora de Consumo de Energia é um projeto proposto pelo curso de Desenvolvimento de Sistemas que estou inscrita.
 
 O projeto foi desenvolvido em Python.
